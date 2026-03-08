@@ -28,4 +28,6 @@ und
       archivePrefix={arXiv},
       primaryClass={cs.DS},
       url={https://arxiv.org/abs/2504.19123}, 
-}
+}.
+
+Der Konkurenalgorithmus ist libcubwt: https://github.com/IlyaGrebnov/libcubwt.

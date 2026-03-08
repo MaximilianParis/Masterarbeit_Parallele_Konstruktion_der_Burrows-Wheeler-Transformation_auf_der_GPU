@@ -1,0 +1,88 @@
+#0042fd
+#ff1919
+#00ff5e
+(Prefix-free Parsing, libcubtw, Lyndon-Algo)
+Laufzeit ms
+Android 102 : 545,311,1900
+BGL\n 102 : 487,245,2865
+cere\n  450 : 2500, 3000, 36338
+coreutils 200 : 1710, 1244, 4360
+dblp.xml.00001.1 102 : 440, 582, 1980
+dblp.xml.00001.2 102 : 449, 590,1510
+dblp.xml.0001.1 102 : 439, 503,1217
+dblp.xml.0001.2 102 : 440, 521,1170
+dna.001 102 : 445, 365,1484
+EDGAR 102 : 515, 280,1914
+
+
+einstein.de 90 : 478,770,2618
+einstein.en 456 : 3823,3902,22877
+english.001 102 : 444, 385,1588
+Escherichia_Coli\n 110 : 681, 412,3016
+
+fib41\n 261 : 1170, 3432,49529
+HDFS_1 102 : 448, 258,5669
+Horspool 558 : 2045, 3533,12704
+influenza 151 : 635, 716,2243
+
+kernel\n 251:1194,1475,5272
+NQueens\n 295:1120,1880,4015
+para\n 419:1900,2193,14257
+proteins.001\n 102:513,691,1676
+Quicksort\n 372:1612,2214,13416
+rs\n 211: 797,2947,31110
+sources.001\n 102: 466,407,1628
+Thunderbird\n 102: 378,294,3948
+
+
+tm29\n 262 : 1776,3288,29253
+Windows\n 102 : 415,532,2013
+world_leaders\n 45 : 378, 396,794
+
+Laufzeit Gesamt
+Prefix_Free_Parsing: 28243
+libcubwt: 34419
+Lyndon_Grammar_BWT: 262364
+
+Speicher mb
+
+Android 102 : 1210,2000,1240
+BGL\n 102 : 1180,2000,2180
+cere\n  450 : 3980, 8880,5000
+coreutils 200 : 1500, 3920,2190
+dblp.xml.00001.1 102 : 516, 2000,972
+dblp.xml.00001.2 102 : 500, 2000,975
+dblp.xml.0001.1 102 : 517, 2000,976
+dblp.xml.0001.2 102 : 519, 2000,980
+dna.001 102 : 546, 2000,980
+EDGAR 102 : 1200, 2000,1510
+
+
+einstein.de 90 : 495,1770,1002
+einstein.en 456 : 3410,8930,5001
+english.001 102 : 646, 2001,1210
+Escherichia_Coli\n 110 : 1790, 2150,1360
+
+fib41\n 261 : 1090, 5120,1350
+HDFS_1 102 : 1310, 2000,1300
+Horspool 558 : 2100, 10900,3150
+influenza 151 : 1005, 2960,1420
+
+kernel\n 251 : 1220,4930,2670
+NQueens\n 295 : 1120,5780,1690
+para\n 419 : 3008,8200,4350
+proteins.001\n 102 : 660,2001,1160
+Quicksort\n 372 : 2001,7290,2160
+rs\n 211 : 807,4140,1100
+sources.001\n 102 : 698,2001,1200
+Thunderbird\n 102 : 918,2001,1280
+
+tm29\n 262 : 1390,5130,1360
+Windows\n 102 : 487,2001,901
+world_leaders\n 45 : 350, 920,528
+
+
+Speicher Gesamt
+Prefix Free Parsing: 36173
+libcubwt: 109025
+Lyndon Grammar BWT: 51195, 22808

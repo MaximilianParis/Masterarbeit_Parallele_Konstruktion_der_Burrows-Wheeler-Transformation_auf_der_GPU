@@ -30,4 +30,4 @@ und
       url={https://arxiv.org/abs/2504.19123}, 
 }.
 
-Der Konkurenalgorithmus ist libcubwt: https://github.com/IlyaGrebnov/libcubwt.
+Der Konkurrenzalorithmus ist libcubwt: https://github.com/IlyaGrebnov/libcubwt.
